@@ -8,9 +8,10 @@
   body {
     height: 100vh;
     display: flex;
-    /* background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiz3Ynj7bXiAhXU8HMBHcv6Ce4QjRx6BAgBEAU&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fbackground%2520image%2F&psig=AOvVaw3FNWBTSEAfk5VwoALM0DND&ust=1558845356302124); */
-    /* background-position: relative; */
-}
+    background-image: url(https://backgrounddownload.com/wp-content/uploads/2018/09/free-motion-background-download-6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
   
 .memory-game {
     margin: auto;
